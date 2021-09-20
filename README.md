@@ -1,6 +1,6 @@
 ## **LuxDevHQ Code Of Conduct** 
 
-By participating in the **[LuxDevHQ Community](https://twitter.com/LuxDevHQ), that is [Lux Academy](https://twitter.com/lux_academy), [Data Science East Africa](https://twitter.com/DSEAfrica), and [Ladies of Lux Academy](https://twitter.com/Ladies_Of_Lux)**, you agreed to abide by our code of conduct. Abusing these guidelines may result in your removal from the community.
+By participating in the **[LuxDevHQ](https://twitter.com/LuxDevHQ) Community, that is [Lux Academy](https://twitter.com/lux_academy), [Data Science East Africa](https://twitter.com/DSEAfrica), and [Ladies of Lux Academy](https://twitter.com/Ladies_Of_Lux)**, you agreed to abide by our code of conduct. Abusing these guidelines may result in your removal from the community.
 
 **1). No spammy behavior.**
 
